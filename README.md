@@ -1,6 +1,6 @@
 # Paw Patrol - Anti Afk :
 ![Description](patrol.png)
-  Paw patrol is used to not be detected afk .
+Paw patrol is used to not be detected afk .
 
 ## Features :
  - Never detected afk 
